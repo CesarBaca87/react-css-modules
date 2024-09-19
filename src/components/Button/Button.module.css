@@ -1,0 +1,12 @@
+.button{
+    padding: 1rem;
+    color: white;
+    border: none;
+    border-radius: 100px;
+}
+.button-blue{
+    background-color: steelblue;
+}
+.button-red{
+    background-color: red;
+}
